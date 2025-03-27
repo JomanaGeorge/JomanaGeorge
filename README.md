@@ -1,12 +1,14 @@
-<h2 align="left">Hi 👋! I'm Jomana George</h2>
+<h1 align="left">Hi 👋! I'm Jomana George</h1>
 
 ###
 
-<h4 align="center">Computer Science and Information Technology Engineer💻<br>Artificial Intelligence and Data Science🤖</h4>
+<h2 align="center">Computer Science and Information Technology Engineer💻<br>Artificial Intelligence and Data Science🤖</h2>
 
 ###
 
-<h3 align="left">Programming Languages</h3>
+<br clear="both">
+
+<h3 align="center">Programming Languages</h3>
 
 ###
 
@@ -22,7 +24,7 @@
 
 ###
 
-<h3 align="left">Frontend Development</h3>
+<h3 align="center">Frontend Development</h3>
 
 ###
 
@@ -34,7 +36,7 @@
 
 ###
 
-<h3 align="left">AI/ML</h3>
+<h3 align="center">AI/ML</h3>
 
 ###
 
@@ -50,7 +52,7 @@
 
 ###
 
-<h3 align="left">Database</h3>
+<h3 align="center">Database</h3>
 
 ###
 
@@ -62,7 +64,7 @@
 
 ###
 
-<h3 align="left">Software</h3>
+<h3 align="center">Software</h3>
 
 ###
 
@@ -74,11 +76,11 @@
 
 ###
 
-<h4 align="left">contact me</h4>
+<h4 align="center">contact me</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/jomana-george" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -89,17 +91,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JomanaGeorge/JomanaGeorge/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/JomanaGeorge/count.svg?"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/474x/00/36/e2/0036e2e27f37a5222540329ca455b9a2.jpg"  />
 
 ###
 
@@ -107,5 +101,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JomanaGeorge&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JomanaGeorge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/474x/00/36/e2/0036e2e27f37a5222540329ca455b9a2.jpg"  />
 
 ###
